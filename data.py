@@ -1,16 +1,16 @@
 question_data = [
-    {"text": "A slug's blood is green.", "answer": "True"},
-    {"text": "The loudest animal is the African Elephant.", "answer": "False"},
-    {"text": "Approximately one quarter of human bones are in the feet.", "answer": "True"},
-    {"text": "The total surface area of a human lungs is the size of a football pitch.", "answer": "True"},
-    {"text": "In West Virginia, USA, if you accidentally hit an animal with your car, "
-             "you are free to take it home to eat.", "answer": "True"},
-    {"text": "In London, UK, if you happen to die in the House of Parliament, "
-             "you are entitled to a state funeral.", "answer": "False"},
-    {"text": "It is illegal to pee in the Ocean in Portugal.", "answer": "True"},
-    {"text": "You can lead a cow down stairs but not up stairs.", "answer": "False"},
-    {"text": "Google was originally called 'Backrub'.", "answer": "True"},
-    {"text": "Buzz Aldrin's mother's maiden name was 'Moon'.", "answer": "True"},
-    {"text": "No piece of square dry paper can be folded in half more than 7 times.", "answer": "False"},
-    {"text": "A few ounces of chocolate can to kill a small dog.", "answer": "True"}
+    {"text": "Dziewięćdziesiąt procent populacji Ziemi mieszka na półkuli północnej.", "answer": "True"},
+    {"text": "W Rosji jest 7 stref czasowych.", "answer": "False"},
+    {"text": "Koty nie widzą koloru czerwonego.", "answer": "True"},
+    {"text": "Małe dzieci mają 300 kości, dorosły człowiek już tylko ok. 206.", "answer": "True"},
+    {"text": "Koty nie mają obojczyków.", "answer": "True"},
+    {"text": "Lody zostały wynalezione we Włoszech.", "answer": "False"},
+    {"text": "Żelki owocowe i samochody są powlekane tym samym rodzaje wosku.", "answer": "True"},
+    {"text": "Wielbłądy używają swoich garbów do magazynowania wody.", "answer": "False"},
+    {"text": "YouTube został założony przez 3 byłych pracowników PayPala.", "answer": "True"},
+    {"text": "W Indiach produkuje się 75% wszystkich przypraw, "
+             "które są dostępne w sprzedaży na całym świecie.", "answer": "True"},
+    {"text": "Psy nie potrafią widzieć w ciemnościach", "answer": "False"},
+    {"text": "W tokijskim metrze są zatrudnieni ludzie, których zadaniem jest wciskać ludzi do wagonów "
+             "na najbardziej zatłoczonych stacjach.", "answer": "True"}
 ]
